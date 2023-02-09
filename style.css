@@ -57,8 +57,10 @@ body * {
   margin-inline: 32px;
 
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 4fr);
 
+  gap: 12px;
+  
 }
 
 button {
