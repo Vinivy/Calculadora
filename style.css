@@ -55,10 +55,8 @@ body * {
 #keyboard {
   margin-top: 26px;
   margin-inline: 32px;
-
   display: grid;
   grid-template-columns: repeat(4, 4fr);
-
   gap: 12px;
   
 }
