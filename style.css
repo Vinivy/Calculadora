@@ -46,6 +46,10 @@ body * {
   justify-content: space-between;
 }
 
+#exirb {
+  height: 50.39px;
+}
+
 #result span {
   font-size: 36px;
   line-height: 140%;
@@ -58,11 +62,10 @@ body * {
   display: grid;
   grid-template-columns: repeat(4, 4fr);
   gap: 12px;
-  
 }
 
 button {
-  
+  cursor: pointer;
   border: 0;
   width: 64px;
   height: 64px;
