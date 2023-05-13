@@ -1,22 +1,22 @@
 //function de concatenar os numeros
 function caracter(num) {
-  let numero = document.getElementById('exirb').innerHTML
+  let numero = document.getElementById('exibir').innerHTML
 
-  document.getElementById('exirb').innerHTML = numero + num
+  document.getElementById('exibir').innerHTML = numero + num
 }
 
 //function para apagar tudo
 function clean() {
-  let backall = document.getElementById('exirb').innerHTML
+  let backall = document.getElementById('exibir').innerHTML
 
-  document.getElementById('exirb').innerHTML = ''
+  document.getElementById('exibir').innerHTML = ''
 }
 
 //function de apara apenas um caracter de vez
 function backone() {
-  let backall = document.getElementById('exirb').innerHTML
+  let backall = document.getElementById('exibir').innerHTML
 
-  document.getElementById('exirb').innerHTML = backall.substring(
+  document.getElementById('exibir').innerHTML = backall.substring(
     0,
     backall.length - 1
   )
@@ -27,8 +27,8 @@ function igual() {
   let resultado = document.getElementById('exibir').innerHTML
 
   if (resultado) {
-    document.getElementById('exirb').innerHTML = eval(resultado)
+    document.getElementById('exibir').innerHTML = eval(resultado)
   } else {
-    document.getElementById('exirb').innerHTML = '0 Conteúdo'
+    document.getElementById('exibir').innerHTML = '0 Conteúdo'
   }
 }
