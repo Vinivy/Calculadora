@@ -24,7 +24,7 @@ function backone() {
 
 //resultado
 function igual() {
-  let resultado = document.getElementById('exirb').innerHTML
+  let resultado = document.getElementById('exibir').innerHTML
 
   if (resultado) {
     document.getElementById('exirb').innerHTML = eval(resultado)
