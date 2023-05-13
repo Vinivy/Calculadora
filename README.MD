@@ -2,13 +2,13 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a > fiz o projeto ficar funcional por caonta propria, Aonde o Designer foi feito pela empressa Rocktseat</a>
+<a > fiz o projeto ficar funcional por conta propria, Aonde o Designer foi feito pela empressa Rocktseat</a>
 </p>
 
 <p align="center">
  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
- <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
+ <a href="#-layout">Visualização</a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -33,14 +33,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Calculadora por enquanto não é funcional!
+A Calculadora um projeto que seu Layout foi feito pelo Rockseat, e a fiz ser funcional, com o Basico de javascript!
 
-## 🔖 Layout
+## 🔖 Visualização
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/rp5BPBzaEkHp3A6WtPvtZc/%23boraCodar---Desafio-5-(Community)?node-id=1%3A61&t=54LKN0aDQO5VPjJm-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o projeto atraves [DESSE LINK](https://vinivy.github.io/Calculadora/).
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
----
+<p aling="center">🚀</p>
